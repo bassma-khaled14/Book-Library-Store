@@ -1,8 +1,9 @@
 # Online BookLibraryApp Project
-Overview    
+
+# Overview    
 This project is an online bookstore application implemented using Java SE sockets and multithreading to achieve a client-server architecture. The application allows users to browse, search, borrow, and lend books. It also includes features such as user authentication, request management, and error handling.
 
-Features  
+# Features  
 Server-Client Communication: Utilizes Java SE sockets for communication between the server and clients.
 Book Inventory Management: Maintains a database of available books including details like title, author, genre, price, quantity, and list of clients who have the book.
 User Authentication: Implements login and registration mechanisms for secure access to the application.
